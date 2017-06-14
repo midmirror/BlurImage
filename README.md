@@ -18,4 +18,4 @@ scaleImg.blurImage(with: .black, colorOpacity: 0, saturationDeltaFactor: 2.8, bl
 
 ### 效果
 
-![sample0](https://github.com/midmirror/BlurImage/blob/master/sample0.png)
+![sample0](https://github.com/midmirror/BlurImage/blob/master/sample0.png "sample0")
